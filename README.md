@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Keith Sheridan
 
-I'm a data analyst and current high school math educator with an M.S. in Applied Statistics from Villanova University. I specialize in transforming real-world data into actionable insights using R, Python, and statistical modeling. After over a decade of teaching, I’m pivoting into data analytics and data science — driven by a passion for clear communication, predictive modeling, and evidence-based decision making.
+I'm a data analyst and current high school math educator with an M.S. in Applied Statistics from Villanova University. I specialize in transforming real-world data into actionable insights using R, Python, and statistical modeling. After over a decade of teaching, I’m pivoting into data analytics and data science; driven by a passion for clear communication, predictive modeling, and evidence-based decision making.
 
 ## 💡 Key Skills
 
