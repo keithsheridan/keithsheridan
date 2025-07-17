@@ -21,7 +21,6 @@ I'm a data analyst and current high school math educator with an M.S. in Applied
 
 ## 🌎 Let's Connect
 
-- 📧 ksheridan9044@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/keith--sheridan/)  
 - 📍 Based in Philadelphia | Open to remote, hybrid, or in-person work
 
